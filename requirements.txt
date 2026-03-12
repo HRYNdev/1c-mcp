@@ -1,0 +1,7 @@
+fastmcp
+httpx
+python-dotenv
+cachetools
+# для mock-сервера
+fastapi
+uvicorn
